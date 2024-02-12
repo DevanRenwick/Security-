@@ -29,7 +29,7 @@ Risk is the likelihood of a threat actor taking advantage of a vulnerability by 
 * A weakness inherent within an asset.
 
 **Threat:**
-* An action, or an explout by a threat actor that they can use against a vulnerability to perform harm to an asset.
+* An action, or an exploit by a threat actor that they can use against a vulnerability to perform harm to an asset.
 
 We want to reduce threat or eliminate it as much as possible.
 
